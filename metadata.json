@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse",
+  "description": "Tactical Wi-Fi spectrum scanner, precision telemetry diagnostics, speed tester, and network device manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
